@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NeuraSentinel
 
 AI-powered table tennis coach on your desktop. Attach an Arduino + IMU to your bat, stream swings to your PC, and get real-time shot classification and training feedback.
@@ -314,3 +315,6 @@ Despite these, NeuraSentinel already supports a full offline loop:
 2. Train the CNN and inspect model metrics.
 3. Classify swings from CSV or BLE.
 4. Track per-session and long-term progress via Dashboard, Profile, Analytics, and Challenges.
+=======
+# neurasentinel_prototype
+>>>>>>> 937b18c0d6592565584a4a7ce3dc510f1387598d
